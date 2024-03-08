@@ -175,7 +175,7 @@
           "skillName": "Python",
           "skillDescription": "Programming Language",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/python.png",
+            "src": "assets/img-tech-stack/python.png",
             "className": "python",
             "alt": "python"
           }
@@ -184,7 +184,7 @@
           "skillName": "C",
           "skillDescription": "Programming Language",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/C.png",
+            "src": "assets/img-tech-stack/C.png",
             "className": "c-language",
             "alt": "c-language"
           }
@@ -193,7 +193,7 @@
           "skillName": "Cpp",
           "skillDescription": "Programming Language",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/CPP.png",
+            "src": "assets/img-tech-stack/CPP.png",
             "className": "cpp",
             "alt": "cpp"
           }
@@ -202,7 +202,7 @@
           "skillName": "Javascript",
           "skillDescription": "Programming Language",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/JavaScript.png",
+            "src": "assets/img-tech-stack/JavaScript.png",
             "className": "javascript",
             "alt": "javascript"
           }
@@ -211,7 +211,7 @@
           "skillName": "CSS3",
           "skillDescription": "Styles Sheets",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/CSS.png",
+            "src": "assets/img-tech-stack/CSS.png",
             "className": "css3",
             "alt": "css3"
           }
@@ -220,7 +220,7 @@
           "skillName": "HTML5",
           "skillDescription": "Marker Language",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/HTML5.png",
+            "src": "assets/img-tech-stack/HTML5.png",
             "className": "html5",
             "alt": "html5"
           }
@@ -229,7 +229,7 @@
           "skillName": "freeRTOS",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/freeRTOS.png",
+            "src": "assets/img-tech-stack/freeRTOS.png",
             "className": "freertos",
             "alt": "freertos"
           }
@@ -238,7 +238,7 @@
           "skillName": "React",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/React.png",
+            "src": "assets/img-tech-stack/React.png",
             "className": "react",
             "alt": "react"
           }
@@ -247,7 +247,7 @@
           "skillName": "Qt",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/QT.png",
+            "src": "assets/img-tech-stack/QT.png",
             "className": "qt",
             "alt": "qt"
           }
@@ -256,7 +256,7 @@
           "skillName": "Matlab",
           "skillDescription": "Engineering Software",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/matlab.png",
+            "src": "assets/img-tech-stack/matlab.png",
             "className": "matlab",
             "alt": "matlab"
           }
@@ -265,7 +265,7 @@
           "skillName": "Pandas DataFrame",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/pandasDataFrame.png",
+            "src": "assets/img-tech-stack/pandasDataFrame.png",
             "className": "pandas",
             "alt": "pandas"
           }
@@ -274,7 +274,7 @@
           "skillName": "MySQL",
           "skillDescription": "SQL Database",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/MySQL.png",
+            "src": "assets/img-tech-stack/MySQL.png",
             "className": "mysql",
             "alt": "mysql"
           }
@@ -283,7 +283,7 @@
           "skillName": "OpenCV",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/opencv.png",
+            "src": "assets/img-tech-stack/opencv.png",
             "className": "opencv",
             "alt": "opencv"
           }
@@ -292,7 +292,7 @@
           "skillName": "ROS 2",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/ros.png",
+            "src": "assets/img-tech-stack/ros.png",
             "className": "ros2",
             "alt": "ros2"
           }
@@ -301,7 +301,7 @@
           "skillName": "Pygame",
           "skillDescription": "FrameWork/Library",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/pygame.png",
+            "src": "assets/img-tech-stack/pygame.png",
             "className": "pygame",
             "alt": "pygame"
           }
@@ -310,7 +310,7 @@
           "skillName": "git",
           "skillDescription": "Control Version",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/git.png",
+            "src": "assets/img-tech-stack/git.png",
             "className": "git",
             "alt": "git"
           }
@@ -319,7 +319,7 @@
           "skillName": "GitKraken",
           "skillDescription": "Control Version",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/gitkraken.png",
+            "src": "assets/img-tech-stack/gitkraken.png",
             "className": "gitkraken",
             "alt": "gitkraken"
           }
@@ -328,7 +328,7 @@
           "skillName": "GitHub",
           "skillDescription": "Control Version",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/github.png",
+            "src": "assets/img-tech-stack/github.png",
             "className": "github",
             "alt": "github"
           }
@@ -337,7 +337,7 @@
           "skillName": "Solid Works",
           "skillDescription": "CAD Software",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/solidworks.png",
+            "src": "assets/img-tech-stack/solidworks.png",
             "className": "solidworks",
             "alt": "solidworks"
           }
@@ -346,7 +346,7 @@
           "skillName": "Catia V5",
           "skillDescription": "CAD Software",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/catiav5.png",
+            "src": "assets/img-tech-stack/catiav5.png",
             "className": "catia",
             "alt": "catia"
           }
@@ -355,7 +355,7 @@
           "skillName": "Inventor",
           "skillDescription": "CAD Software",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/inventor.png",
+            "src": "assets/img-tech-stack/inventor.png",
             "className": "inventor",
             "alt": "inventor"
           }
@@ -364,7 +364,7 @@
           "skillName": "VS Code",
           "skillDescription": "Programming IDE",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/vscode.png",
+            "src": "assets/img-tech-stack/vscode.png",
             "className": "vscode",
             "alt": "vscode"
           }
@@ -373,7 +373,7 @@
           "skillName": "Spyder",
           "skillDescription": "Programming IDE",
           "Image": {
-            "src": "../../public/assets/img-tech-stack/spyder.png",
+            "src": "assets/img-tech-stack/spyder.png",
             "className": "spyder",
             "alt": "spyder"
           }
@@ -385,7 +385,7 @@
     {
       "id": 1,
       "tittle": "Zelda Style Game",
-      "image": "../../public/assets/ZeldaStyleGame.PNG",
+      "image": "assets/ZeldaStyleGame.PNG",
       "description": "Personal Project used to improve Object Oriented Programming Skill in Python. The project has been created using the pygame library completely.",
       "techStack": [
         { "type": "CSS", "icon": "fa-brands fa-python", "tooltip": "Python" },
@@ -405,7 +405,7 @@
     {
       "id": 2,
       "tittle": "Computer Vision App",
-      "image": "../../public/assets/CV_AlgorithmDesigner.PNG",
+      "image": "assets/CV_AlgorithmDesigner.PNG",
       "description": "Final Thesis Project for Master. The idea behiund the project was development a tool which help to streamline the process of design and test algorithm to vision computer field.",
       "techStack": [
         { "type": "SVG", "icon": "cpp", "tooltip": "C++" },
@@ -422,7 +422,7 @@
     {
       "id": 3,
       "tittle": "Python Projects",
-      "image": "../../public/assets/PythonProjects.PNG",
+      "image": "assets/PythonProjects.PNG",
       "description": "A little collection of projects realised in Python in order to improve the knowledge about this programming languages.",
       "techStack": [
         { "type": "CSS", "icon": "fa-brands fa-python", "tooltip": "Python" },
@@ -442,7 +442,7 @@
     {
       "id": 4,
       "tittle": "CAD Projects",
-      "image": "../../public/assets/CAD_Projects.PNG",
+      "image": "assets/CAD_Projects.PNG",
       "description": "A little collection of projects using different CAD-Tools, like SolidWorks, CATIA and Inventor, in order to improve the knowledge about these.",
       "techStack": [
         { "type": "SVG", "icon": "catia", "tooltip": "CATIA V5" },
