@@ -384,21 +384,21 @@
   "Portfolio": [
     {
       "id": 1,
-      "tittle": "Zelda Style Game",
-      "image": "assets/ZeldaStyleGame.PNG",
-      "description": "Personal Project used to improve Object Oriented Programming Skill in Python. The project has been created using the pygame library completely.",
+      "tittle": "Landing Page for Bank",
+      "image": "assets/land-page-bank.PNG",
+      "description": "A Bank Landing Page",
       "techStack": [
-        { "type": "CSS", "icon": "fa-brands fa-python", "tooltip": "Python" },
-        { "type": "SVG", "icon": "pygame", "tooltip": "PyGame" }
+        { "type": "CSS", "icon": "fa-brands fa-react", "tooltip": "React" },
+        {
+          "type": "CSS",
+          "icon": "fa-brands fa-square-js",
+          "tooltip": "JavaScript"
+        }
       ],
       "links": [
         {
-          "icon": "fa-brands fa-youtube",
-          "link": "https://www.youtube.com/watch?v=4aPk2NaBnpI"
-        },
-        {
-          "icon": "fa-brands fa-github",
-          "link": "https://github.com/JesusCRIS90/PyGame_Ex/tree/master/ZeldaGameStyle"
+          "icon": "fa-solid fa-globe",
+          "link": "https://jesuscris90.github.io/bank-landing-page/"
         }
       ]
     },
@@ -421,6 +421,46 @@
     },
     {
       "id": 3,
+      "tittle": "Zelda Style Game",
+      "image": "assets/ZeldaStyleGame.PNG",
+      "description": "Personal Project used to improve Object Oriented Programming Skill in Python. The project has been created using the pygame library completely.",
+      "techStack": [
+        { "type": "CSS", "icon": "fa-brands fa-python", "tooltip": "Python" },
+        { "type": "SVG", "icon": "pygame", "tooltip": "PyGame" }
+      ],
+      "links": [
+        {
+          "icon": "fa-brands fa-youtube",
+          "link": "https://www.youtube.com/watch?v=4aPk2NaBnpI"
+        },
+        {
+          "icon": "fa-brands fa-github",
+          "link": "https://github.com/JesusCRIS90/PyGame_Ex/tree/master/ZeldaGameStyle"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tittle": "Quiz Game",
+      "image": "assets/quiz-game.PNG",
+      "description": "A Quiz Application about any topic.",
+      "techStack": [
+        { "type": "CSS", "icon": "fa-brands fa-react", "tooltip": "React" },
+        {
+          "type": "CSS",
+          "icon": "fa-brands fa-square-js",
+          "tooltip": "JavaScript"
+        }
+      ],
+      "links": [
+        {
+          "icon": "fa-solid fa-globe",
+          "link": "https://jesuscris90.github.io/Quiz-Game/"
+        }
+      ]
+    },
+    {
+      "id": 5,
       "tittle": "Python Projects",
       "image": "assets/PythonProjects.PNG",
       "description": "A little collection of projects realised in Python in order to improve the knowledge about this programming languages.",
@@ -440,7 +480,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "tittle": "CAD Projects",
       "image": "assets/CAD_Projects.PNG",
       "description": "A little collection of projects using different CAD-Tools, like SolidWorks, CATIA and Inventor, in order to improve the knowledge about these.",
