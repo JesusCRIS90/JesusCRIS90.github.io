@@ -266,7 +266,7 @@
           "skillDescription": "Engineering Software",
           "tag": "software",
           "Image": {
-            "src": "assets/img-tech-stack/matlab.png",
+            "src": "assets/img-tech-stack/Matlab.png",
             "className": "matlab",
             "alt": "matlab"
           }
@@ -376,7 +376,7 @@
           "skillDescription": "CAD Software",
           "tag": "software",
           "Image": {
-            "src": "assets/img-tech-stack/inventor.png",
+            "src": "assets/img-tech-stack/Inventor.png",
             "className": "inventor",
             "alt": "inventor"
           }
